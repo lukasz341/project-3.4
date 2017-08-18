@@ -461,13 +461,9 @@ ul {
         display: none;
     }
 
-    .phone  {
-       height: 110vh;
-    }
-    
-    header {
-	height: 100vh;
-    }
+    .new {
+    	margin-top: 5px;	
+    }  
     
    	.image .container {
 		position: absolute;
